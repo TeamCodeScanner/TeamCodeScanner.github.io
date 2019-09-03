@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Week 1 Time Tracking
+image: /img/timetracking/week1.jpg
 ---
 
-This is my first post, how exciting!
+
