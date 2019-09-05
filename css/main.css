@@ -460,6 +460,7 @@ footer .theme-by {
   transition: opacity 1s linear;
 }
 .intro-header .page-heading {
+  color: #1bd9c4;
   text-align: center;
 }
 .intro-header.big-img .page-heading,
